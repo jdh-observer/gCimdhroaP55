@@ -28,7 +28,7 @@ Natural History Museum, London
 
 <!-- #endregion -->
 
-```python editable=true slideshow={"slide_type": ""} tags=["cover"]
+```python editable=true slideshow={"slide_type": ""} tags=["cover", "anchor-cover-*"]
 from IPython.display import display, Image
 #caption_text = "Detail from Armada Portrait (c. 1588); National Maritime Museum, London, ID number ZBA7719."
 display(Image("./media/Cover image.jpg"))
@@ -253,10 +253,11 @@ Reitherman, Bruce, *Surf - medium close-up waves breaking on rocks, from a storm
 Source: BBC Sound Effects Library.
 <!-- #endregion -->
 
-<!-- #region editable=true slideshow={"slide_type": ""} tags=["Bibliography-*"] -->
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["Bibliography-*", "hidden"] -->
 ## Bibliography
 <!-- #endregion -->
 
+<!-- #region editable=true slideshow={"slide_type": ""} tags=["hidden"] -->
 <!-- BIBLIOGRAPHY START -->
 <div class="csl-bib-body">
   <div class="csl-entry"><i id="zotero|1998823/UG8GNB5V"></i><i>Armada Portrait of Elizabeth I</i>. (1588). [Oil on oak]. <a href="https://www.rmg.co.uk/collections/objects/rmgc-object-1096108">https://www.rmg.co.uk/collections/objects/rmgc-object-1096108</a></div>
@@ -279,3 +280,4 @@ Source: BBC Sound Effects Library.
   <div class="csl-entry"><i id="zotero|1998823/TSEIJ7SX"></i>Wells-Cole, A. (2012). Scissors-and-Paste in Two Paintings of Elizabeth I. <i>Burlington Magazine</i>, <i>154</i>(1317), 834–838. <a href="https://doi.org/41812902">https://doi.org/41812902</a></div>
 </div>
 <!-- BIBLIOGRAPHY END -->
+<!-- #endregion -->
