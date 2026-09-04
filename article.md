@@ -18,7 +18,7 @@ jupyter:
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} tags=["contributor"] -->
- ### Isabel Davis [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/ORCID_ID) 
+ ### Isabel Davis [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-1055-523X) 
 Natural History Museum, London
 <!-- #endregion -->
 
