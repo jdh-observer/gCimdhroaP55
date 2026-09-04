@@ -142,7 +142,7 @@ Because I worked with still images rather than live-action film, I create moveme
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
-The Armada portrait makes a study of the contrast between change and constancy, between movement and stasis. The clearest point of kinetic energy is seen through the window on the right of the painting, where Spanish galleons are tossed and sunk in turbulent waves (as in the [cover image](#cover-image) above). My video essay begins in those rough seas, centring not only the Armada fleet but also the storm in which it scuppered. I use footage of scudding clouds and turbulent seas, sourced from Open Planet, to keep the topic of wind energy visually at the fore through the rest of the video.
+The Armada portrait makes a study of the contrast between change and constancy, between movement and stasis. The clearest point of kinetic energy is seen through the window on the right of the painting, where Spanish galleons are tossed and sunk in turbulent waves (as in the [cover image](#anchor-cover-*) above). My video essay begins in those rough seas, centring not only the Armada fleet but also the storm in which it scuppered. I use footage of scudding clouds and turbulent seas, sourced from Open Planet, to keep the topic of wind energy visually at the fore through the rest of the video.
 <!-- #endregion -->
 
 <!-- #region editable=true slideshow={"slide_type": ""} -->
